@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\bin\Release\net8.0\general.transaction1productwc.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\obj\Release\net8.0\general.transaction1productwc.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\obj\Release\net8.0\general.transaction1productwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\obj\Release\net8.0\general.transaction1productwc.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\obj\Release\net8.0\general.transaction1productwc.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\obj\Release\net8.0\refint\general.transaction1productwc.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.transaction1productwc\obj\Release\net8.0\ref\general.transaction1productwc.dll

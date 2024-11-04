@@ -1,0 +1,1825 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\developermenu\\developermenu.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\developermenu\\developermenu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\developermenu\\developermenu.csproj",
+        "projectName": "developermenu",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\developermenu\\developermenu.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\developermenu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente\\general.cliente.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente\\general.cliente.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente_bc\\general.cliente_bc.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente_bc\\general.cliente_bc.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0010\\general.gx0010.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0010\\general.gx0010.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0021\\general.gx0021.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0021\\general.gx0021.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0030\\general.gx0030.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0030\\general.gx0030.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.anotificationsregistrationhandler\\general.services.anotificationsregistrationhandler.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.anotificationsregistrationhandler\\general.services.anotificationsregistrationhandler.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.directionsservicerequest\\general.services.directionsservicerequest.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.directionsservicerequest\\general.services.directionsservicerequest.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxaftereventreplicator\\general.services.gxaftereventreplicator.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxaftereventreplicator\\general.services.gxaftereventreplicator.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxbeforeeventreplicator\\general.services.gxbeforeeventreplicator.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxbeforeeventreplicator\\general.services.gxbeforeeventreplicator.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxonpendingeventfailed\\general.services.gxonpendingeventfailed.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxonpendingeventfailed\\general.services.gxonpendingeventfailed.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1general\\general.transaction1general.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1general\\general.transaction1general.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1productwc\\general.transaction1productwc.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1productwc\\general.transaction1productwc.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1\\general.transaction1.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1\\general.transaction1.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1_bc\\general.transaction1_bc.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1_bc\\general.transaction1_bc.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.viewtransaction1\\general.viewtransaction1.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.viewtransaction1\\general.viewtransaction1.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.wwtransaction1\\general.wwtransaction1.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.wwtransaction1\\general.wwtransaction1.csproj"
+              },
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente\\general.cliente.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente\\general.cliente.csproj",
+        "projectName": "general.cliente",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente\\general.cliente.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente_bc\\general.cliente_bc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente_bc\\general.cliente_bc.csproj",
+        "projectName": "general.cliente_bc",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente_bc\\general.cliente_bc.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.cliente_bc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0010\\general.gx0010.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0010\\general.gx0010.csproj",
+        "projectName": "general.gx0010",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0010\\general.gx0010.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0010\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0021\\general.gx0021.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0021\\general.gx0021.csproj",
+        "projectName": "general.gx0021",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0021\\general.gx0021.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0021\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0030\\general.gx0030.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0030\\general.gx0030.csproj",
+        "projectName": "general.gx0030",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0030\\general.gx0030.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.gx0030\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj",
+        "projectName": "general.security.notauthorized",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.security.notauthorized\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.anotificationsregistrationhandler\\general.services.anotificationsregistrationhandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.anotificationsregistrationhandler\\general.services.anotificationsregistrationhandler.csproj",
+        "projectName": "general.services.anotificationsregistrationhandler",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.anotificationsregistrationhandler\\general.services.anotificationsregistrationhandler.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.anotificationsregistrationhandler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.directionsservicerequest\\general.services.directionsservicerequest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.directionsservicerequest\\general.services.directionsservicerequest.csproj",
+        "projectName": "general.services.directionsservicerequest",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.directionsservicerequest\\general.services.directionsservicerequest.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.directionsservicerequest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxaftereventreplicator\\general.services.gxaftereventreplicator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxaftereventreplicator\\general.services.gxaftereventreplicator.csproj",
+        "projectName": "general.services.gxaftereventreplicator",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxaftereventreplicator\\general.services.gxaftereventreplicator.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxaftereventreplicator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxbeforeeventreplicator\\general.services.gxbeforeeventreplicator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxbeforeeventreplicator\\general.services.gxbeforeeventreplicator.csproj",
+        "projectName": "general.services.gxbeforeeventreplicator",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxbeforeeventreplicator\\general.services.gxbeforeeventreplicator.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxbeforeeventreplicator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxonpendingeventfailed\\general.services.gxonpendingeventfailed.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxonpendingeventfailed\\general.services.gxonpendingeventfailed.csproj",
+        "projectName": "general.services.gxonpendingeventfailed",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxonpendingeventfailed\\general.services.gxonpendingeventfailed.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.services.gxonpendingeventfailed\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1general\\general.transaction1general.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1general\\general.transaction1general.csproj",
+        "projectName": "general.transaction1general",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1general\\general.transaction1general.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1general\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1productwc\\general.transaction1productwc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1productwc\\general.transaction1productwc.csproj",
+        "projectName": "general.transaction1productwc",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1productwc\\general.transaction1productwc.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1productwc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1\\general.transaction1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1\\general.transaction1.csproj",
+        "projectName": "general.transaction1",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1\\general.transaction1.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1_bc\\general.transaction1_bc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1_bc\\general.transaction1_bc.csproj",
+        "projectName": "general.transaction1_bc",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1_bc\\general.transaction1_bc.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.transaction1_bc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj",
+        "projectName": "general.ui.masterprompt",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterprompt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj",
+        "projectName": "general.ui.masterunanimosidebar",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.ui.masterunanimosidebar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.viewtransaction1\\general.viewtransaction1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.viewtransaction1\\general.viewtransaction1.csproj",
+        "projectName": "general.viewtransaction1",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.viewtransaction1\\general.viewtransaction1.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.viewtransaction1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.wwtransaction1\\general.wwtransaction1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.wwtransaction1\\general.wwtransaction1.csproj",
+        "projectName": "general.wwtransaction1",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.wwtransaction1\\general.wwtransaction1.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\general.wwtransaction1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj",
+        "projectName": "GeneXus.Programs.Common",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\build\\GeneXus.Programs.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\OneDrive\\Escritorio\\Proyectos Genexus\\MiPrimeraDemo\\CloudNET002\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

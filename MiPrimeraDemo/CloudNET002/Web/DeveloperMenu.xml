@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+  <Charset>UTF-8</Charset>
+  <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus18Trial/</Path>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>General.Cliente</ObjName>
+    <ObjDesc>General.Cliente</ObjDesc>
+    <ObjLink>general.cliente.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>General.WWTransaction1</ObjName>
+    <ObjDesc>General.Transaction1s</ObjDesc>
+    <ObjLink>general.wwtransaction1.aspx</ObjLink>
+  </Object>
+  <Dashboards>
+    <Android>
+      <Name>
+      </Name>
+      <URI>https://trialapps3.genexus.com/Id1f440dfd7b0e07ec29ced7e96ba355e3/.apk</URI>
+    </Android>
+  </Dashboards>
+</Objects>

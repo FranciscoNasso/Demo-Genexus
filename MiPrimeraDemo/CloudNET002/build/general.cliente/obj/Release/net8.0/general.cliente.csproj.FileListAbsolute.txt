@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\bin\Release\net8.0\general.cliente.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\obj\Release\net8.0\general.cliente.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\obj\Release\net8.0\general.cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\obj\Release\net8.0\general.cliente.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\obj\Release\net8.0\general.cliente.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\obj\Release\net8.0\refint\general.cliente.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.cliente\obj\Release\net8.0\ref\general.cliente.dll

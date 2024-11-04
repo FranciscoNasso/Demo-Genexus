@@ -1,0 +1,4 @@
+dir_superordinates_i(2,3,[]).
+dir_superordinates_i(2,1,[ [ 3,[ 8 ] ] ]).
+dir_superordinates_i(2,2,[ [ 1,[ 6 ] ] ]).
+ 

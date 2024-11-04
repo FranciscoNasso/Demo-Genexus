@@ -1,0 +1,11 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_MiPrimeraDemo</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo</Directory>
+	<DataFile>GX_KB_MiPrimeraDemo.mdf</DataFile>
+	<LogFile>GX_KB_MiPrimeraDemo_log.ldf</LogFile>
+	<HostName>FRANCISCO</HostName>
+	<DetachOnClose>False</DetachOnClose>
+</ConnectionInformation>

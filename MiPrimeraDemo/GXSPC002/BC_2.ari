@@ -1,0 +1,14 @@
+bc_dt_elem_i([ 0,2,0 ],'Invoiceid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Invoicedate',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Customerid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Customername',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Customername',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Invoicesubtotal',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Invoicetax',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Invoicetotal',readonly,yes).
+bc_dt_elem_i([ 0,2,[ 6,10 ] ],'Productid',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 6,10 ] ],'Productname',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 6,10 ] ],'Productprice',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 6,10 ] ],'Invoiceproductquantity',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 6,10 ] ],'Invoiceproducttotal',readonly,yes).
+ 

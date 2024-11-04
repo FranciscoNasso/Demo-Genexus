@@ -1,0 +1,101 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+	
+	
+	<PropertyGroup>
+		<AssemblyName>developermenu</AssemblyName>
+		<TargetFramework>$(TargetFramework)</TargetFramework>
+		<OutputType>Library</OutputType>
+		<GenerateDependencyFile>false</GenerateDependencyFile>
+		<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+		<PostgresqlSupport>false</PostgresqlSupport>
+		<OfficeSupport>false</OfficeSupport>
+		<MailSupport>false</MailSupport>
+		<GrpcClientSupport>false</GrpcClientSupport>
+		<PdfLibrary></PdfLibrary>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include=".\..\general.cliente_bc\general.cliente_bc.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.cliente\general.cliente.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.transaction1_bc\general.transaction1_bc.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.transaction1\general.transaction1.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.transaction1productwc\general.transaction1productwc.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.transaction1general\general.transaction1general.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.wwtransaction1\general.wwtransaction1.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.viewtransaction1\general.viewtransaction1.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.security.notauthorized\general.security.notauthorized.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.gx0030\general.gx0030.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.gx0021\general.gx0021.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.gx0010\general.gx0010.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.ui.masterprompt\general.ui.masterprompt.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.services.directionsservicerequest\general.services.directionsservicerequest.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.services.gxonpendingeventfailed\general.services.gxonpendingeventfailed.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.services.gxbeforeeventreplicator\general.services.gxbeforeeventreplicator.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.services.gxaftereventreplicator\general.services.gxaftereventreplicator.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.services.anotificationsregistrationhandler\general.services.anotificationsregistrationhandler.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\general.services.anotificationsregistrationhandler\general.services.anotificationsregistrationhandler.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+		<ProjectReference Include=".\..\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj" >
+			<OutputItemType>$(CommonOutputItemType)</OutputItemType>
+		</ProjectReference>
+
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="GeneXus.dll" > 
+			<HintPath>$(WebBinDirectory)\GeneXus.dll</HintPath>
+		</Reference>
+
+
+	</ItemGroup>
+
+	<ItemGroup>
+
+	</ItemGroup>
+	<ItemGroup Condition="'$(PostgresqlSupport)'=='true'">
+		<PackageReference Include="Npgsql" Version="8.0.3" PrivateAssets="All"/>
+	</ItemGroup>
+
+	<Import Project="..\DotNetCoreBaseProject.targets"/>	
+</Project>
+

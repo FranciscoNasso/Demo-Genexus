@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\bin\Release\net8.0\general.services.gxaftereventreplicator.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\obj\Release\net8.0\general.services.gxaftereventreplicator.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\obj\Release\net8.0\general.services.gxaftereventreplicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\obj\Release\net8.0\general.services.gxaftereventreplicator.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\obj\Release\net8.0\general.services.gxaftereventreplicator.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\obj\Release\net8.0\refint\general.services.gxaftereventreplicator.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.gxaftereventreplicator\obj\Release\net8.0\ref\general.services.gxaftereventreplicator.dll

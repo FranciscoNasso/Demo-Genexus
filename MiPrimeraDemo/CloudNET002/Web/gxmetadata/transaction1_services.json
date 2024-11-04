@@ -1,0 +1,4 @@
+{"ControlServices":[
+{"Attribute":"CustomerID", "Parameters":["CustomerName"]},
+{"Attribute":"CustomerID", "Parameters":["CustomerName"]}
+]}

@@ -1,0 +1,5 @@
+bc_dt_elem_i([ 0,3,0 ],'Customerid',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Customername',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Customeraddress',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Customeremail',allownulls,no).
+ 

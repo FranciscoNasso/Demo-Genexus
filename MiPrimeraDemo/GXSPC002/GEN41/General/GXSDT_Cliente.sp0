@@ -1,0 +1,68 @@
+ 
+spec_i([ sdt,[ 0,3,0 ],'General\Cliente','General\Cliente',0,eng,'18_0_10-184260' ]).
+ 
+struct_dt_i([ 0,3,0 ],name,'General\Cliente').
+struct_dt_i([ 0,3,0 ],namespace,'MiPrimeraDemo').
+struct_dt_i([ 0,3,0 ],significantName,'General\Cliente').
+struct_dt_i([ 0,3,0 ],'ObjName','Cliente').
+struct_dt_i([ 0,3,0 ],'ObjDesc','Cliente').
+struct_dt_i([ 0,3,0 ],'ExternalName','Cliente').
+struct_dt_i([ 0,3,0 ],'ExternalNamespace','MiPrimeraDemo').
+struct_dt_i([ 0,3,0 ],key,[ 8 ]).
+struct_dt_i([ 0,3,0 ],lvl,3).
+struct_dt_i([ 0,3,0 ],fullname,'General\Cliente').
+ 
+struct_dt_elem_i([ 0,3,0 ],1,name,'Customerid').
+struct_dt_elem_i([ 0,3,0 ],1,camelname,'CustomerID').
+struct_dt_elem_i([ 0,3,0 ],1,length,4).
+struct_dt_elem_i([ 0,3,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,3,0 ],1,sign,0).
+struct_dt_elem_i([ 0,3,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,3,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,3,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,3,0 ],1,attributeid,'8').
+struct_dt_elem_i([ 0,3,0 ],1,'ExternalName','CustomerID').
+struct_dt_elem_i([ 0,3,0 ],1,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,3,0 ],2,name,'Customername').
+struct_dt_elem_i([ 0,3,0 ],2,camelname,'CustomerName').
+struct_dt_elem_i([ 0,3,0 ],2,length,20).
+struct_dt_elem_i([ 0,3,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,3,0 ],2,type,[ 5,20,0 ]).
+struct_dt_elem_i([ 0,3,0 ],2,pic,'').
+struct_dt_elem_i([ 0,3,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,3,0 ],2,attributeid,'9').
+struct_dt_elem_i([ 0,3,0 ],2,'ExternalName','CustomerName').
+struct_dt_elem_i([ 0,3,0 ],2,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,3,0 ],3,name,'Customeraddress').
+struct_dt_elem_i([ 0,3,0 ],3,camelname,'CustomerAddress').
+struct_dt_elem_i([ 0,3,0 ],3,basedon,13).
+struct_dt_elem_i([ 0,3,0 ],3,length,1024).
+struct_dt_elem_i([ 0,3,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,3,0 ],3,type,[ 13,1024,0 ]).
+struct_dt_elem_i([ 0,3,0 ],3,pic,'').
+struct_dt_elem_i([ 0,3,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,3,0 ],3,attributeid,'18').
+struct_dt_elem_i([ 0,3,0 ],3,'ExternalName','CustomerAddress').
+struct_dt_elem_i([ 0,3,0 ],3,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,3,0 ],4,name,'Customeremail').
+struct_dt_elem_i([ 0,3,0 ],4,camelname,'CustomerEmail').
+struct_dt_elem_i([ 0,3,0 ],4,basedon,52).
+struct_dt_elem_i([ 0,3,0 ],4,length,100).
+struct_dt_elem_i([ 0,3,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,3,0 ],4,type,[ 13,100,0 ]).
+struct_dt_elem_i([ 0,3,0 ],4,pic,'').
+struct_dt_elem_i([ 0,3,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,3,0 ],4,attributeid,'19').
+struct_dt_elem_i([ 0,3,0 ],4,'ExternalName','CustomerEmail').
+struct_dt_elem_i([ 0,3,0 ],4,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,3,0 ],3,pic,'ZZZ9').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

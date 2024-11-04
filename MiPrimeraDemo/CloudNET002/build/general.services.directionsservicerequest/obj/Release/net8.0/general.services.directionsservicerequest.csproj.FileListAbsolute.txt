@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\bin\Release\net8.0\general.services.directionsservicerequest.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net8.0\general.services.directionsservicerequest.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net8.0\general.services.directionsservicerequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net8.0\general.services.directionsservicerequest.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net8.0\general.services.directionsservicerequest.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net8.0\refint\general.services.directionsservicerequest.dll
+C:\Users\franc\OneDrive\Escritorio\Proyectos Genexus\MiPrimeraDemo\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net8.0\ref\general.services.directionsservicerequest.dll

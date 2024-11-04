@@ -1,0 +1,162 @@
+ 
+spec_i([ sdt,[ 0,2,0 ],'General\Transaction1','General\Transaction1',0,eng,'18_0_10-184260' ]).
+ 
+struct_dt_i([ 0,2,0 ],name,'General\Transaction1').
+struct_dt_i([ 0,2,0 ],namespace,'MiPrimeraDemo').
+struct_dt_i([ 0,2,0 ],significantName,'General\Transaction1').
+struct_dt_i([ 0,2,0 ],'ObjName','Transaction1').
+struct_dt_i([ 0,2,0 ],'ObjDesc','Transaction1').
+struct_dt_i([ 0,2,0 ],'ExternalName','Transaction1').
+struct_dt_i([ 0,2,0 ],'ExternalNamespace','MiPrimeraDemo').
+struct_dt_i([ 0,2,0 ],key,[ 6 ]).
+struct_dt_i([ 0,2,0 ],lvl,1).
+struct_dt_i([ 0,2,[ 6,10 ] ],name,'Product').
+struct_dt_i([ 0,2,[ 6,10 ] ],namespace,'MiPrimeraDemo.Transaction1').
+struct_dt_i([ 0,2,[ 6,10 ] ],lvl,2).
+struct_dt_i([ 0,2,0 ],fullname,'General\Transaction1').
+struct_dt_i([ 0,2,[ 6,10 ] ],fullname,'General\Transaction1.Product').
+ 
+struct_dt_elem_i([ 0,2,0 ],1,name,'Invoiceid').
+struct_dt_elem_i([ 0,2,0 ],1,camelname,'InvoiceID').
+struct_dt_elem_i([ 0,2,0 ],1,length,4).
+struct_dt_elem_i([ 0,2,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],1,sign,0).
+struct_dt_elem_i([ 0,2,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],1,attributeid,'6').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalName','InvoiceID').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],2,name,'Invoicedate').
+struct_dt_elem_i([ 0,2,0 ],2,camelname,'InvoiceDate').
+struct_dt_elem_i([ 0,2,0 ],2,length,8).
+struct_dt_elem_i([ 0,2,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],2,type,[ 6,8,0 ]).
+struct_dt_elem_i([ 0,2,0 ],2,pic,'99/99/99').
+struct_dt_elem_i([ 0,2,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],2,attributeid,'7').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalName','InvoiceDate').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],3,name,'Customerid').
+struct_dt_elem_i([ 0,2,0 ],3,camelname,'CustomerID').
+struct_dt_elem_i([ 0,2,0 ],3,length,4).
+struct_dt_elem_i([ 0,2,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],3,sign,0).
+struct_dt_elem_i([ 0,2,0 ],3,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],3,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],3,attributeid,'8').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalName','CustomerID').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],4,name,'Customername').
+struct_dt_elem_i([ 0,2,0 ],4,camelname,'CustomerName').
+struct_dt_elem_i([ 0,2,0 ],4,length,20).
+struct_dt_elem_i([ 0,2,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],4,type,[ 5,20,0 ]).
+struct_dt_elem_i([ 0,2,0 ],4,pic,'').
+struct_dt_elem_i([ 0,2,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],4,attributeid,'9').
+struct_dt_elem_i([ 0,2,0 ],4,'ExternalName','CustomerName').
+struct_dt_elem_i([ 0,2,0 ],4,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],5,name,'Product').
+struct_dt_elem_i([ 0,2,0 ],5,camelname,'Product').
+struct_dt_elem_i([ 0,2,0 ],5,type,[ [ 0,2,[ 6,10 ] ],0,0 ]).
+struct_dt_elem_i([ 0,2,0 ],5,pic,'').
+struct_dt_elem_i([ 0,2,0 ],5,collection,'True').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,name,'Productid').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,camelname,'ProductID').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,length,4).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,decimals,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,sign,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,collection,'False').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,attributeid,'10').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,'ExternalName','ProductID').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],1,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,name,'Productname').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,camelname,'ProductName').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,length,20).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,decimals,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,type,[ 5,20,0 ]).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,pic,'').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,collection,'False').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,attributeid,'11').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,'ExternalName','ProductName').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],2,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,name,'Productprice').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,camelname,'ProductPrice').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,length,8).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,decimals,2).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,sign,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,type,[ 4,8,2 ]).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,pic,'ZZZZ9.99').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,collection,'False').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,attributeid,'12').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,'ExternalName','ProductPrice').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],3,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,name,'Invoiceproductquantity').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,camelname,'InvoiceProductQuantity').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,length,4).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,decimals,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,sign,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,collection,'False').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,attributeid,'13').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,'ExternalName','InvoiceProductQuantity').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],4,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,name,'Invoiceproducttotal').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,camelname,'InvoiceProductTotal').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,length,8).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,decimals,2).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,sign,0).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,type,[ 4,8,2 ]).
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,pic,'ZZZZ9.99').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,collection,'False').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,attributeid,'14').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,'ExternalName','InvoiceProductTotal').
+struct_dt_elem_i([ 0,2,[ 6,10 ] ],5,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],6,name,'Invoicesubtotal').
+struct_dt_elem_i([ 0,2,0 ],6,camelname,'InvoiceSubtotal').
+struct_dt_elem_i([ 0,2,0 ],6,length,8).
+struct_dt_elem_i([ 0,2,0 ],6,decimals,2).
+struct_dt_elem_i([ 0,2,0 ],6,sign,0).
+struct_dt_elem_i([ 0,2,0 ],6,type,[ 4,8,2 ]).
+struct_dt_elem_i([ 0,2,0 ],6,pic,'ZZZZ9.99').
+struct_dt_elem_i([ 0,2,0 ],6,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],6,attributeid,'15').
+struct_dt_elem_i([ 0,2,0 ],6,'ExternalName','InvoiceSubtotal').
+struct_dt_elem_i([ 0,2,0 ],6,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],7,name,'Invoicetax').
+struct_dt_elem_i([ 0,2,0 ],7,camelname,'InvoiceTax').
+struct_dt_elem_i([ 0,2,0 ],7,length,8).
+struct_dt_elem_i([ 0,2,0 ],7,decimals,2).
+struct_dt_elem_i([ 0,2,0 ],7,sign,0).
+struct_dt_elem_i([ 0,2,0 ],7,type,[ 4,8,2 ]).
+struct_dt_elem_i([ 0,2,0 ],7,pic,'ZZZZ9.99').
+struct_dt_elem_i([ 0,2,0 ],7,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],7,attributeid,'16').
+struct_dt_elem_i([ 0,2,0 ],7,'ExternalName','InvoiceTax').
+struct_dt_elem_i([ 0,2,0 ],7,'ExternalNamespace','MiPrimeraDemo').
+struct_dt_elem_i([ 0,2,0 ],8,name,'Invoicetotal').
+struct_dt_elem_i([ 0,2,0 ],8,camelname,'InvoiceTotal').
+struct_dt_elem_i([ 0,2,0 ],8,length,8).
+struct_dt_elem_i([ 0,2,0 ],8,decimals,2).
+struct_dt_elem_i([ 0,2,0 ],8,sign,0).
+struct_dt_elem_i([ 0,2,0 ],8,type,[ 4,8,2 ]).
+struct_dt_elem_i([ 0,2,0 ],8,pic,'ZZZZ9.99').
+struct_dt_elem_i([ 0,2,0 ],8,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],8,attributeid,'17').
+struct_dt_elem_i([ 0,2,0 ],8,'ExternalName','InvoiceTotal').
+struct_dt_elem_i([ 0,2,0 ],8,'ExternalNamespace','MiPrimeraDemo').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').
